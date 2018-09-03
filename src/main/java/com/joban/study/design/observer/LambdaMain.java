@@ -1,7 +1,7 @@
 package com.joban.study.design.observer;
 
 /**
- * Created by Jerliner on 2018/8/26.
+ * Created by Joban on 2018/8/26.
  */
 public class LambdaMain {
 
